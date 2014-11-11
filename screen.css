@@ -2,6 +2,33 @@ html {
 
 }
 
+p {
+
+  font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
+  font-size: 1em;
+
+}
+
+h1,h2,h3,h4,h5  {
+
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+
+}
+
+a {
+
+  font-weight: bold;
+  color: #003366; /* dark blue */
+  text-decoration: none;
+
+}
+
+a:hover {
+
+  text-decoration: underline;
+
+}
+
 header {
 
   color: #FFFFFF;
