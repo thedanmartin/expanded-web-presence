@@ -55,7 +55,7 @@ li  {
 
   border: 1px solid #003366;
   display: block;
-  width: 7em;
+  width: 6em;
   text-align: center;
 
 }
@@ -68,7 +68,7 @@ footer {
 
 nav {
 
-  width: 7em;
+  width: 6em;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
   color: #000000;
   background-color: #CCCCCC;
@@ -79,6 +79,12 @@ nav a:hover {
 
   text-decoration: none;
   background-color: #FFFFFF;
+
+}
+
+nav a {
+
+  display: block;
 
 }
 
