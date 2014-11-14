@@ -36,6 +36,19 @@ header {
 
 }
 
+header a  {
+
+  color: #FFFFFF;
+  text-decoration: none;
+
+}
+
+header a:hover {
+
+  text-decoration: none;
+
+}
+
 li  {
 
   border: 1px solid #003366;
@@ -53,6 +66,13 @@ nav {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
   color: #000000;
   background-color: #CCCCCC;
+
+}
+
+nav a:hover {
+
+  text-decoration: none;
+  background-color: #FFFFFF;
 
 }
 
