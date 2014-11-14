@@ -36,6 +36,12 @@ header {
 
 }
 
+li  {
+
+  border: 1px solid #003366;
+
+}
+
 footer {
 
   background-color: #CCCC99;
@@ -44,6 +50,8 @@ footer {
 
 nav {
 
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+  color: #000000;
   background-color: #CCCCCC;
 
 }
