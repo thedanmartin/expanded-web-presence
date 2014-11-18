@@ -5,7 +5,7 @@ html {
 p {
 
   font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
-  font-size: 1em;
+  font-size: 1.125em;
   line-height: 1.4em;
   margin-bottom: .5em;
   margin-left: .5em;
@@ -20,8 +20,18 @@ h1, h2, h3, h4, h5  {
 
 }
 
+h1  {
+
+  font-size: 1.3em;
+  margin-left: 1em;
+  margin-right: .5em;
+  font-style: bold;
+
+}
+
 h2  {
 
+  font-size: 1.3em;
   margin-bottom: .5em;
   margin-left: .5em;
   margin-right: .5em;
@@ -65,7 +75,7 @@ li  {
 
   border: 1px solid #003366;
   display: block;
-  width: 100&;
+  width: 100%;
   text-align: center;
 
 }
@@ -109,8 +119,7 @@ nav a {
   nav  {
     width: 15.625em;
     position: absolute;
-    bottom: 1.5em;
-    top: 1.5em;
+    top: 1.6em;
   }
 
   section {
@@ -127,20 +136,22 @@ nav a {
     width: 56.25em;
   }
 
-   nav  {
+  nav  {
     margin: 0 auto;
     width: 15.625em;
-    top: 1.5em;
+    top: 1.6em;
   }
 
   p {
+
     font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
-    font-size: 1.125em;
+    font-size: 1.250em;
     line-height: 1.4em;
     margin-bottom: .5em;
     margin-left: .5em;
     margin-right: .5em;
     margin-top: .5em;
+
   }
 
 }
