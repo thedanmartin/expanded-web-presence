@@ -109,23 +109,13 @@ nav a {
   nav  {
     width: 15.625em;
     position: absolute;
-    left: 0em;
+    bottom: 1.5em;
     top: 1.5em;
   }
 
   section {
     margin-left: 16em;
     top: 1.5em;
-  }
-
-  p {
-    font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
-    font-size: 1em;
-    line-height: 1.4em;
-    margin-bottom: .5em;
-    margin-left: .5em;
-    margin-right: .5em;
-    margin-top: .5em;
   }
 
 }
@@ -141,6 +131,16 @@ nav a {
     margin: 0 auto;
     width: 15.625em;
     top: 1.5em;
+  }
+
+  p {
+    font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
+    font-size: 1.125em;
+    line-height: 1.4em;
+    margin-bottom: .5em;
+    margin-left: .5em;
+    margin-right: .5em;
+    margin-top: .5em;
   }
 
 }
