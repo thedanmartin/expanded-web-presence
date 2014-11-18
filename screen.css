@@ -30,7 +30,6 @@ h2  {
 
 a {
 
-  font-weight: bold;
   color: #003366; /* dark blue */
   text-decoration: none;
 
@@ -136,6 +135,12 @@ nav a {
   body  {
     margin: 0 auto;
     width: 56.25em;
+  }
+
+   nav  {
+    margin: 0 auto;
+    width: 15.625em;
+    top: 1.5em;
   }
 
 }
