@@ -14,6 +14,14 @@ p {
 
 }
 
+#myinfo p {
+
+  font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
+  font-size: 1.5em;
+  line-height: 1em;
+
+}
+
 h1, h2, h3, h4, h5  {
 
   font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
@@ -24,17 +32,39 @@ h1  {
 
   font-size: 1.3em;
   margin-left: 1em;
-  margin-right: .5em;
   font-style: bold;
 
 }
 
 h2  {
 
-  font-size: 1.3em;
+  font-style: bold;
+  font-size: 2em;
   margin-bottom: .5em;
   margin-left: .5em;
   margin-right: .5em;
+
+}
+
+h3  {
+
+  color: #003366;
+  font-size: 1.5em;
+  font-style: italic;
+
+}
+
+h4  {
+
+  font-size: 1.125em;
+  margin-left: .5em;
+
+}
+
+h5  {
+
+  font-size: 1.125em;
+  margin-left: 1em;
 
 }
 
@@ -89,6 +119,7 @@ footer {
   line-height: 1.4em;
   font-style: italic;
 
+
 }
 
 nav {
@@ -140,18 +171,6 @@ nav a {
     margin: 0 auto;
     width: 15.625em;
     top: 1.6em;
-  }
-
-  p {
-
-    font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
-    font-size: 1.250em;
-    line-height: 1.4em;
-    margin-bottom: .5em;
-    margin-left: .5em;
-    margin-right: .5em;
-    margin-top: .5em;
-
   }
 
 }
