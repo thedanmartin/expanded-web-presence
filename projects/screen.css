@@ -5,7 +5,7 @@ html {
 p {
 
   font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
-  font-size: 1.175em;
+  font-size: 1.125em;
   line-height: 1.4em;
   margin-bottom: .5em;
   margin-left: .5em;
@@ -95,10 +95,6 @@ header a  {
 
 }
 
-section {
-  background-color: white;
-}
-
 header a:hover {
 
   text-decoration: none;
@@ -111,7 +107,7 @@ li  {
   display: block;
   width: 100%;
   text-align: center;
-  background-color: #CCCCCC;
+
 }
 
 footer {
@@ -131,12 +127,9 @@ nav {
   width: 100%;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
   color: #000000;
+  background-color: #CCCCCC;
 
 }
-
-nav ul {
-  margin: 0 auto 0 auto;
-  }
 
 nav a:hover {
 
@@ -157,10 +150,8 @@ nav a {
   nav  {
     width: 15.625em;
     position: absolute;
-    top: 3.6em;
+    top: 1.6em;
   }
-
-
 
   section {
     margin-left: 16em;
@@ -179,7 +170,7 @@ nav a {
   nav  {
     margin: 0 auto;
     width: 15.625em;
-    top: 3.6em;
+    top: 1.6em;
   }
 
 }
